@@ -1,10 +1,10 @@
 [package]
-name = "sqlite-vec"
+name = "sqlite-vec-sl"
 license = "MIT OR Apache"
 homepage = "https://alexgarcia.xyz/sqlite-vec"
-repo = "https://github.com/asg017/sqlite-vec"
-description = "A vector search SQLite extension."
-authors = ["Alex Garcia"]
+repo = "https://github.com/stacklok/sqlite-vec"
+description = "A temp fork of vector search SQLite extension."
+authors = ["Stacklok"]
 git_tag_format = "v$VERSION"
 
 [targets]
