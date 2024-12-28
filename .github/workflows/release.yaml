@@ -150,12 +150,6 @@ jobs:
               sdk: iphoneos,
               runner: macos-14,
             },
-            #{
-            #  name: ios-x86_64,
-            #  target: x86_64-apple-ios,
-            #  sdk: iphoneos,
-            #  runner: macos-12,
-            #},
             {
               name: iossimulator-aarch64,
               target: arm64-apple-ios-simulator,
