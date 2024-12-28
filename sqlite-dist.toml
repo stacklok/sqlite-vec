@@ -1,5 +1,5 @@
 [package]
-name = "sqlite-vec-sl"
+name = "sqlite-vec-sl-tmp"
 license = "MIT OR Apache"
 homepage = "https://alexgarcia.xyz/sqlite-vec"
 repo = "https://github.com/stacklok/sqlite-vec"
